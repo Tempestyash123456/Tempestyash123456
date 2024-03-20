@@ -26,4 +26,3 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yashdubey262?theme=wtf&font=milonga)
 
-![Snake animation](https://raw.githubusercontent.com/Tempestyash123456/Tempestyash123456/output/github-contribution-grid-snake-dark.svg)
