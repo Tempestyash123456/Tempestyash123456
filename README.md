@@ -25,3 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tempestyash123456&" alt="tempestyash123456" /></p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yashdubey262?theme=wtf&font=milonga)
+
+![Snake animation](https://raw.githubusercontent.com/Tempestyash123456/Tempestyash123456/output/github-contribution-grid-snake-dark.svg)
