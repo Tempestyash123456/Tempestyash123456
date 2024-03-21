@@ -24,3 +24,5 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yashdubey262?theme=wtf&font=milonga)
 
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tempestyash123456&show_icons=true&theme=synthwave)
+
