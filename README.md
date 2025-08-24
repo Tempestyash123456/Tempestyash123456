@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tempestyash123456&label=Profile%20views&color=0e75b6&style=flat" alt="tempestyash123456" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh0851" alt="ansh0851" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh0851" alt="Trophies" /></a> </p>
 
 - 🔭 I’m currently working on [Evolution of EVs](https://github.com/Tempestyash123456/Evolution-in-EVs)
 
